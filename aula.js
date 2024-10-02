@@ -32,6 +32,7 @@ console.log("O resultado da subtração é: " + (subtracao));
 console.log("O resultado da multiplicação é: " + (multiplicacao));
 console.log("O resultado da divisão é: " + (divisao));
 */
+
 /*
 const nota1 = 9;
 const nota2 = 6;
