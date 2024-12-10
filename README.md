@@ -4,7 +4,6 @@
 
 # Resumo das aulas, <\>_01 #
 
-*Coding: Algoritmos (tipos primitivos, estruturas condicionais, arrays)*
 
 ## Resumo da aula coding (Algoritmos)
 No dia de hoje foi apresentado pela professora: como podemos operar variáveis em um arquivo .js, explicando detalhadamente sobre os tipos aplicáveis de variáveis (var, let, const), além disso foi mostrado a concatenação de palavras "soma de palavras" e a utilização dos operadores matemáticos: Soma, subtração, multiplicação e divisão.
