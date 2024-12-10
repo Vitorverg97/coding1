@@ -2,7 +2,7 @@
 
 *ADS040-1T*
 
-# Resumo das aulas, <\>_01 #
+# Resumo das aulas, </>_01 #
 
 
 ## Resumo da aula coding (Algoritmos)
