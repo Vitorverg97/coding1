@@ -31,5 +31,4 @@ Nesta aula foi nos apresentado como podemos utilizar a função média, comandos
 
 *Vítor Vieira de Souza, ADS040-1T*
 
-*🇧🇷 Pátria Amada Brasil 🇧🇷*
 ### 12-10-2024 ###
